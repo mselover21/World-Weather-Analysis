@@ -1,8 +1,14 @@
+# Adding config.py file
+config.py
+#Adding adidtional files
+api_application.ipynb 
+random_num.ipynb 
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 *$py.class
-config.py
+
 # C extensions
 *.so
 
